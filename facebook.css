@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(210, 222, 233);
+}
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+.error {
+text-align: center;
+}
+div {
+    margin: 3px 450px 0px 400px;
+    background-color: rgb(67, 109, 165);
+    height: 400px;
+    color: aliceblue;
+    border-radius: 5px;
+}
+input[type=button] {
+    width: 400px;
+    background-color: rgb(78, 78, 69);
+    height:40px;
+    margin: 40px ;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px rgb(88, 85, 85);
+}
+input[type=password] {
+    width: 400px;
+    height:40px;
+    margin: 0px 40px 0px 40px;
+    }
+input[type=email] {
+    width: 400px;
+    height:40px;
+    margin: 50px 40px 0px 40px;
+}
+a {
+    color: aliceblue;
+    text-decoration: none;
+    margin: 50px 200px 50px 180px;
+}
